@@ -1,5 +1,5 @@
 defmodule Cards do
-  def hello do
-    "Привет из модуля Cards!"
+  def create_deck do
+    ["Туз", "Двойка", "Тройка"]
   end
 end
